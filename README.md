@@ -22,7 +22,7 @@ The board reads RC PWM commands and talks to a Pixhawk/Cube autopilot, then cont
 | Communication | CAN bus transceiver; headers for Pixhawk/Cube autopilot and SBUS |
 | PCB | 2 layers, designed in Altium Designer |
 
-Schematic: [`docs/schematic.pdf`](docs/schematic.pdf) · PCB views: [`docs/pcb_top.png`]`docs/pcb_top.png`, [`docs/pcb_bottom.png`]`docs/pcb_bottom.png`
+Schematic: [`docs/schematic.pdf`](docs/schematic.pdf) · PCB views: [`docs/pcb_top.png`](docs/pcb_top.png), [`docs/pcb_bottom.png`](docs/pcb_bottom.png)
 
 ## Firmware
 
