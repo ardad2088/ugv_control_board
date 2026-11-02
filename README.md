@@ -40,7 +40,6 @@ Bare-metal C. Main parts:
 ```
 docs/       photos, schematic PDF, PCB renders
 hardware/   Altium project, libraries, Gerbers, BOM
-firmware/   STM32CubeIDE project and source code
 ```
 
 
